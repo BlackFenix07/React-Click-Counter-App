@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Click-Counter-App/static/css/main.a35f62c0.css",
+    "main.js": "/React-Click-Counter-App/static/js/main.c74b624e.js",
+    "static/media/freecodecamp-logo.png": "/React-Click-Counter-App/static/media/freecodecamp-logo.40259f967b3fa30c91c2.png",
+    "index.html": "/React-Click-Counter-App/index.html",
+    "main.a35f62c0.css.map": "/React-Click-Counter-App/static/css/main.a35f62c0.css.map",
+    "main.c74b624e.js.map": "/React-Click-Counter-App/static/js/main.c74b624e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a35f62c0.css",
+    "static/js/main.c74b624e.js"
+  ]
+}
